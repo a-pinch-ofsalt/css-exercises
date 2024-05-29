@@ -1,0 +1,15 @@
+.clickMeButton {
+    border-radius: 0%;
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.clickMeButton.mePlease {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.clickMeButton.noMePlease {
+    background-color: yellow;
+}
